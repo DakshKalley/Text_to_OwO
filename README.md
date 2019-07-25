@@ -3,4 +3,4 @@ Text to OwO converter (´・ω・\`)
 
 Example Use:
 ![Image Ex.]
-(ExampleUse.png)
+(https://github.com/DakshKalley/Text_to_OwO/blob/master/ExampleUse.png)
